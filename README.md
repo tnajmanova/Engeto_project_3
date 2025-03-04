@@ -1,4 +1,4 @@
-# Projekt Election Scraper
+# Projekt Elections Scraper
 
 Script main.py byl vytvořen jako třetí projekt v rámci Engeto Online Python Akademie.
 
